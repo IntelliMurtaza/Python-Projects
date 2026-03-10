@@ -1,1 +1,2 @@
-I'm Muhammad Murtaza, a WordPress developer currently learning AI and ml.
+All these projects are developed by me, while learning Python for AI and Machine Learning.
+The Strengthen my programming logic and realworld app dev.
